@@ -1,0 +1,12 @@
+100  | N1     |  polymerization degree
+0.1  | sigma1 |  grafting density
+1.0  | p1     |  Kuhn length
+0.0  | chi1   |  Flory's parameter for polymer-solvent
+150  | N2     |
+0.1  | sigma2 |
+3.0  | p2     |
+1.0  | chi2   |
+0.25 | chi12  |  Flory's parameter for polymer-polymer
+0.04 | eta    |  step size of gradient descent
+5000 | nfree  |  number of "free steps" at descent
+1    | swpro  |  if swpro=0: switch off print of profiles
